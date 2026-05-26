@@ -15,3 +15,5 @@ Mean ATE: 23.15 metres on synthetic KITTI-format dataset
 
 ## Stack
 Python, OpenCV, NumPy, Matplotlib
+## Kaggle Notebook
+[View interactive notebook on Kaggle](https://www.kaggle.com/code/mesojack/kitti-visual-odometry-stereo-seun-akinwa?scriptVersionId=322373976)
